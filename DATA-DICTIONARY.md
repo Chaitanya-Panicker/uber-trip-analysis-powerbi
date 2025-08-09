@@ -1,5 +1,9 @@
 ## Key Data Fields & Business Terms
 
+This file contains the data fields used along with their business definitions. It explains the meaning, purpose, and context of each field to have a clear understanding before analysis.
+
+---
+
 **Avg Booking Amount**  
 The average amount of money customers pay for booking a trip or ride.
 
