@@ -96,6 +96,8 @@
 - **Purpose:** Enable date-range analysis and seasonal trend identification
 - **Visual:** Date range slicer - "Date" filter
 
+---
+
 ### Q16. How can stakeholders filter analysis by specific cities?
 - **Purpose:** Facilitate city-specific performance analysis and market comparison
 - **Visual:** Dropdown slicer - "City" filter with "All" and individual city options
