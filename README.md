@@ -1,8 +1,7 @@
 # 🚖 Uber Trip Analysis
 
 ## 📌 Project Overview
-This project delivers a deep-dive analysis of Uber trip data for June 2024, revealing patterns in bookings, revenues, distances, and trip behaviors.  
-By examining payment preferences, trip types, locations, and time-based booking trends, the dashboard empowers decision-making for operational efficiency, targeted marketing, and customer satisfaction.
+This project delivers a deep-dive analysis of Uber trip data for June 2024, revealing patterns in bookings, revenues, distances, and trip behaviors. By examining payment preferences, trip types, locations, and time-based booking trends, the dashboard empowers decision-making for operational efficiency, targeted marketing, and customer satisfaction.
 
 ---
 
