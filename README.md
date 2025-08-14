@@ -1,5 +1,7 @@
 # 🚖 Uber Trip Analysis
 
+<img width="1317" height="764" alt="Screenshot 1" src="https://github.com/user-attachments/assets/eef0fef0-51c4-4352-ae2e-6755257325d3" />
+
 ## 📌 Project Overview
 This project delivers a deep-dive analysis of Uber trip data for June 2024, revealing patterns in bookings, revenues, distances, and trip behaviors. By examining payment preferences, trip types, locations, and time-based booking trends, the dashboard empowers decision-making for operational efficiency, targeted marketing, and customer satisfaction.
 
@@ -68,9 +70,9 @@ This project delivers a deep-dive analysis of Uber trip data for June 2024, reve
 ---
 
 ## 📬 Contact  
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Your Portfolio Link]  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker
 
 ---
 
