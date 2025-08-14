@@ -61,7 +61,7 @@ This project delivers a deep-dive analysis of Uber trip data for June 2024, reve
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Chaitanya-Panicker/uber-trip-analysis-powerbi.git
 2. Open .pbix file in Power BI Desktop.
 3. Use date and city filters to focus on a desired period or location.
 4. Hover over visuals for interactive tooltips.
